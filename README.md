@@ -4,6 +4,7 @@
 ## Getting started
 
 `$ npm install react-native-exit-app --save`
+
 `$ yarn add react-native-exit-app`
 
 ### Mostly automatic installation
