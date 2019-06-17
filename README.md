@@ -4,6 +4,7 @@
 ## Getting started
 
 `$ npm install react-native-exit-app --save`
+`$ yarn add react-native-exit-app`
 
 ### Mostly automatic installation
 
@@ -36,9 +37,9 @@
 
 ## Usage
 ```javascript
-import RNExitApp from 'react-native-exit-app';
+import ExitApp from 'react-native-exit-app'
 
 // TODO: What to do with the module?
-RNExitApp;
+ExitApp.exit()
 ```
   
